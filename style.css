@@ -1,22 +1,21 @@
 body {
-  background-color: blueviolet;
+    background-color: blue;
 }
 
 header {
-  background-color: burlywood;
-
-  width: 100%;
-  height: 10em;
-  border: 1px solid blue;
+    background-color: burlywood;
+    width: 100%;
+    height: 10em;
+    border: 1px solid blue;
 }
 
 main {
-  background-color: cornflowerblue;
+    background-color: cornflowerblue;
 }
 
 footer {
-  width: 100%;
-  height: 10em;
-  border: 1px solid blue;
-  background-color: darkblue;
+    width: 100%;
+    height: 10em;
+    border: 1px solid blue;
+    background-color: darkblue;
 }
